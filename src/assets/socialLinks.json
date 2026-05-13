@@ -1,38 +1,38 @@
 [
   {
-    "name": "Github",
-    "icon": "/images/icon/github.png",
-    "tip": "去 Github 看看",
-    "url": "https://github.com/imsyy"
+“名字”：“Github”，
+“icon”："/images/icon/github.png"，按键移动焦点
+“提示”：“you Github you”
+“网址”：“https://github.com/”
   },
   {
-    "name": "BiliBili",
-    "icon": "/images/icon/bilibili.png",
-    "tip": "(゜-゜)つロ 干杯 ~",
-    "url": "https://space.bilibili.com/98544142"
+“名字”：“BiliBili”
+"icon": "/images/icon/bilibili.png",
+“提示”：“（你-你-我）~”
+“网址”："https://Bilibill.com/"
   },
   {
-    "name": "QQ",
-    "icon": "/images/icon/qq.png",
-    "tip": "有什么事吗",
-    "url": "https://res.abeim.cn/api/qq/?qq=1539250352"
+“名字”：“QQ”
+"icon": "/images/icon/qq.png",
+“提示”：“有什么事吗”，
+“网址”：“https://im.qq.com/index/#/”
   },
   {
-    "name": "Email",
-    "icon": "/images/icon/email.png",
-    "tip": "来封 Email ~",
-    "url": "mailto:one@imsyy.top"
-  },
-  {
-    "name": "Twitter",
-    "icon": "/images/icon/twitter.png",
-    "tip": "你懂的 ~",
-    "url": "https://twitter.com/iimmsyy"
-  },
-  {
-    "name": "Telegram",
-    "icon": "/images/icon/telegram.png",
-    "tip": "你懂的 ~",
-    "url": "https://t.me/bottom_user"
+“姓名”：“电子邮件”，
+"icon": "/images/icon/email.png",
+“提示”：“来封邮箱~”，
+query为空: "https://mail.qq.com/"
+[图标]：
+查询为空
+#“名字”：“推特”，
+#为空查询："/images/icon/twitter.png",
+#“提示”：“你懂的~”，
+#“图标”:"https://twitter.com/iimmsyy"
+#“网址”：
+#查询为空
+#“名字”：“电报”，
+#为空查询："/images/icon/telegram.png"，
+#“提示”：“你懂的~”，
+#“图标”:"https://t.me/bottom_user"
   }
 ]

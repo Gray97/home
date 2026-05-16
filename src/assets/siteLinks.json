@@ -28,5 +28,10 @@
     "icon": "LaptopCode",
     "name": "网安监测",
     "link": "https://cybermap.kaspersky.com/cn/"
-  }
+  },
+    {
+    "icon": "Compass",
+    "name": "有点好看",
+    "link": "https://tv.gray.ccwu.cc/"
+  },
 ]

@@ -24,15 +24,15 @@
 query为空: "https://mail.qq.com/"
 [图标]：
 查询为空
-#“名字”：“推特”，
-#为空查询："/images/icon/twitter.png",
-#“提示”：“你懂的~”，
-#“图标”:"https://twitter.com/iimmsyy"
-#“网址”：
-#查询为空
-#“名字”：“电报”，
-#为空查询："/images/icon/telegram.png"，
-#“提示”：“你懂的~”，
-#“图标”:"https://t.me/bottom_user"
+# “名字”：“推特”，
+# 为空查询："/images/icon/twitter.png",
+# “提示”：“你懂的~”，
+# “图标”:"https://twitter.com/iimmsyy"
+# “网址”：
+# 查询为空
+# “名字”：“电报”，
+# 为空查询："/images/icon/telegram.png"，
+# “提示”：“你懂的~”，
+# “图标”:"https://t.me/bottom_user"
   }
 ]

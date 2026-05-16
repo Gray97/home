@@ -2,36 +2,36 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.gray.ccwu.cc/"
+    "link": "https://blog.imsyy.top/"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://www.123pan.com/"
+    "link": "https://pan.imsyy.top/"
   },
   {
     "icon": "CompactDisc",
     "name": "音乐",
-    "link": "https://m.uzz.me//"
+    "link": "https://music.imsyy.top/"
+  },
+  {
+    "icon": "Compass",
+    "name": "起始页",
+    "link": "https://nav.imsyy.top/"
   },
   {
     "icon": "Book",
-    "name": "书签",
-    "link": "https://www.erlyun.com/"
+    "name": "网址集",
+    "link": "https://web.imsyy.top/"
   },
   {
     "icon": "Fire",
     "name": "今日热榜",
-    "link": "https://touduyu.com/rebang/"
+    "link": "https://hot.imsyy.top/"
   },
   {
     "icon": "LaptopCode",
-    "name": "网安监测",
-    "link": "https://cybermap.kaspersky.com/cn/"
-  },
-    {
-    "icon": "Compass",
-    "name": "有点好看",
-    "link": "https://tv.gray.ccwu.cc/"
-  }, 
+    "name": "站点监测",
+    "link": "https://status.imsyy.top/"
+  }
 ]

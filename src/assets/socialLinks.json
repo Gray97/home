@@ -23,20 +23,16 @@
     "tip": "来封 Email ~",
     "url": "https://mail.qq.com/"
   },
-
-/*
-  {
-    "name": "Twitter",
-    "icon": "/images/icon/twitter.png",
-    "tip": "你懂的 ~",
-    "url": "https://twitter.com/iimmsyy"
+ {
+    "name": "wenxin",
+    "icon": "/images/icon/weixin.png",
+    "tip": "传个文件 ~",
+    "url": "https://filehelper.weixin.qq.com/"
   },
   {
-    "name": "Telegram",
-    "icon": "/images/icon/telegram.png",
-    "tip": "你懂的 ~",
-    "url": "https://t.me/bottom_user"
+    "name": "baidu",
+    "icon": "/images/icon/baidu.png",
+    "tip": "百度一下 ~",
+    "url": "https://baidu.com/"
   }
-*/
-
 ]

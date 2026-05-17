@@ -10,9 +10,9 @@
     "link": "https://www.123pan.com/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.gray.ccwu.cc/#/"
+    "icon": "Fire",
+    "name": "今日热榜",
+    "link": "https://touduyu.com/rebang/"
   },
   {
     "icon": "Book",
@@ -20,9 +20,9 @@
     "link": "https://www.erlyun.com/web/"
   },
   {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://touduyu.com/rebang/"
+    "icon": "Cloud",
+    "name": "图图",
+    "link": "https://photo.gray.ccwu.cc/"
   },
   {
     "icon": "LaptopCode",
@@ -30,9 +30,9 @@
     "link": "https://cybermap.kaspersky.com/cn/"
   },
   {
-    "icon": "Cloud",
-    "name": "图图",
-    "link": "https://photo.gray.ccwu.cc/"
+    "icon": "CompactDisc",
+    "name": "音乐",
+    "link": "https://music.gray.ccwu.cc/#/"
   },
   {
     "icon": "Compass",

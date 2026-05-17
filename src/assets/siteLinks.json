@@ -29,7 +29,12 @@
     "name": "网安监测",
     "link": "https://cybermap.kaspersky.com/cn/"
   },
-    {
+  {
+    "icon": "Cloud",
+    "name": "图图",
+    "link": "https://photo.gray.ccwu.cc/"
+  },
+  {
     "icon": "Compass",
     "name": "有点好看",
     "link": "https://tv.gray.ccwu.cc/"

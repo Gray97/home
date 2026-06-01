@@ -11,7 +11,9 @@
             -
           </span>
           {{ fullYear }}
-          <a :href="https://blog.gray.ccwu.cc/about" target="_blank" style="color: skyblue;" >{{ siteAuthor }}</a>
+          <a  v-if="siteAuthor " href="https://blog.gray.ccwu.cc/about" target="_blank" style="color: skyblue;" >
+            {{ siteAuthor }}
+          </a>
         </span>
         <!-- 以下信息请不要修改哦 -->
         <span class="hidden">

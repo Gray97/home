@@ -11,7 +11,7 @@
             -
           </span>
           {{ fullYear }}
-          <a :href="siteUrl" style="color: pink;" >{{ siteAuthor }}</a>
+          <a :href="siteUrl" style="color: blue;" >{{ siteAuthor }}</a>
         </span>
         <!-- 以下信息请不要修改哦 -->
         <span class="hidden">

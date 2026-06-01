@@ -20,7 +20,7 @@
         <!-- 站点备案 -->
         <span>
           &amp;
-          <a v-if="siteIcp" href="https://beian.miit.gov.cn" target="_blank">
+          <a v-if="siteIcp" href="https://icp.gov.moe/join.php?id=20260567" target="_blank" style="color: pink;"> >
             {{ siteIcp }}
           </a>
         </span>

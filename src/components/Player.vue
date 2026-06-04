@@ -7,7 +7,7 @@
     :theme="theme"
     :autoSwitch="false"
     :loop="store.playerLoop"
-    "store.playerOrder"
+         <!-- :order=store.playerOrder为顺序播放-->
     :order="'random'"
     :volume="volume"
     :showLrc="true"

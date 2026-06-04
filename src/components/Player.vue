@@ -7,7 +7,7 @@
     :theme="theme"
     :autoSwitch="false"
     :loop="store.playerLoop"
-    :order="store.playerOrder"
+    :order="'random'"
     :volume="volume"
     :showLrc="true"
     :listFolded="listFolded"

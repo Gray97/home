@@ -8,7 +8,6 @@
     :autoSwitch="false"
     :loop="store.playerLoop"
     "store.playerOrder"
-         <!-- :order=store.playerOrder-->
     :order="'random'"
     :volume="volume"
     :showLrc="true"

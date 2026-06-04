@@ -8,7 +8,7 @@
     :autoSwitch="false"
     :loop="store.playerLoop"
     "store.playerOrder"
-     <!-- :order="store.playerOrder"为顺序播放；:order="'random'"为随机播放-->
+         <!-- :order=store.playerOrder-->
     :order="'random'"
     :volume="volume"
     :showLrc="true"
